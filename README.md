@@ -7,3 +7,4 @@
 MrFlipper123/MrFlipper123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+We've gotten complaints about bugs, were doing our best to patch those and get the discord server up and running.
